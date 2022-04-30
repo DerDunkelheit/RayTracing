@@ -1,3 +1,6 @@
+# Ray Tracing learning repository
+This is an education purpose repository, where I store my progress in Ray Tracing
+
 # Walnut App Template
 
 This is a simple app template for [Walnut](https://github.com/TheCherno/Walnut) - unlike the example within the Walnut repository, this keeps Walnut as an external submodule and is much more sensible for actually building applications. See the [Walnut](https://github.com/TheCherno/Walnut) repository for more details.
